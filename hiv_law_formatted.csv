@@ -1,0 +1,970 @@
+state,year,criminal_law,criminal_law_detailed
+Alabama,1994,No,No
+Alabama,1995,No,No
+Alabama,1996,No,No
+Alabama,1997,No,No
+Alabama,1998,No,No
+Alabama,1999,No,No
+Alabama,2000,No,No
+Alabama,2001,No,No
+Alabama,2002,No,No
+Alabama,2003,No,No
+Alabama,2004,No,No
+Alabama,2005,No,No
+Alabama,2006,No,No
+Alabama,2007,No,No
+Alabama,2008,No,No
+Alabama,2009,No,No
+Alabama,2010,No,No
+Alabama,2011,No,No
+Alabama,2012,No,No
+Alaska,1994,No,No
+Alaska,1995,No,No
+Alaska,1996,No,No
+Alaska,1997,No,No
+Alaska,1998,No,No
+Alaska,1999,No,No
+Alaska,2000,No,No
+Alaska,2001,No,No
+Alaska,2002,No,No
+Alaska,2003,No,No
+Alaska,2004,No,No
+Alaska,2005,No,No
+Alaska,2006,No,No
+Alaska,2007,Yes,yes_low_exempt
+Alaska,2008,Yes,yes_low_exempt
+Alaska,2009,Yes,yes_low_exempt
+Alaska,2010,Yes,yes_low_exempt
+Alaska,2011,Yes,yes_low_exempt
+Alaska,2012,Yes,yes_low_exempt
+Arizona,1994,No,No
+Arizona,1995,No,No
+Arizona,1996,No,No
+Arizona,1997,No,No
+Arizona,1998,No,No
+Arizona,1999,No,No
+Arizona,2000,No,No
+Arizona,2001,No,No
+Arizona,2002,No,No
+Arizona,2003,No,No
+Arizona,2004,No,No
+Arizona,2005,No,No
+Arizona,2006,No,No
+Arizona,2007,No,No
+Arizona,2008,No,No
+Arizona,2009,No,No
+Arizona,2010,No,No
+Arizona,2011,No,No
+Arizona,2012,No,No
+Arkansas,1994,Yes,yes_all
+Arkansas,1995,Yes,yes_all
+Arkansas,1996,Yes,yes_all
+Arkansas,1997,Yes,yes_all
+Arkansas,1998,Yes,yes_all
+Arkansas,1999,Yes,yes_all
+Arkansas,2000,Yes,yes_all
+Arkansas,2001,Yes,yes_all
+Arkansas,2002,Yes,yes_all
+Arkansas,2003,Yes,yes_all
+Arkansas,2004,Yes,yes_all
+Arkansas,2005,Yes,yes_all
+Arkansas,2006,Yes,yes_all
+Arkansas,2007,Yes,yes_all
+Arkansas,2008,Yes,yes_all
+Arkansas,2009,Yes,yes_all
+Arkansas,2010,Yes,yes_all
+Arkansas,2011,Yes,yes_all
+Arkansas,2012,Yes,yes_all
+California,1994,Yes,yes_low_exempt
+California,1995,Yes,yes_low_exempt
+California,1996,Yes,yes_low_exempt
+California,1997,Yes,yes_low_exempt
+California,1998,Yes,yes_low_exempt
+California,1999,Yes,yes_low_exempt
+California,2000,Yes,yes_low_exempt
+California,2001,Yes,yes_low_exempt
+California,2002,Yes,yes_low_exempt
+California,2003,Yes,yes_low_exempt
+California,2004,Yes,yes_low_exempt
+California,2005,Yes,yes_low_exempt
+California,2006,Yes,yes_low_exempt
+California,2007,Yes,yes_low_exempt
+California,2008,Yes,yes_low_exempt
+California,2009,Yes,yes_low_exempt
+California,2010,Yes,yes_low_exempt
+California,2011,Yes,yes_low_exempt
+California,2012,Yes,yes_low_exempt
+Colorado,1994,Yes,yes_all
+Colorado,1995,Yes,yes_all
+Colorado,1996,Yes,yes_all
+Colorado,1997,Yes,yes_all
+Colorado,1998,Yes,yes_all
+Colorado,1999,Yes,yes_all
+Colorado,2000,Yes,yes_all
+Colorado,2001,Yes,yes_all
+Colorado,2002,Yes,yes_all
+Colorado,2003,Yes,yes_all
+Colorado,2004,Yes,yes_all
+Colorado,2005,Yes,yes_all
+Colorado,2006,Yes,yes_all
+Colorado,2007,Yes,yes_all
+Colorado,2008,Yes,yes_all
+Colorado,2009,Yes,yes_all
+Colorado,2010,Yes,yes_all
+Colorado,2011,Yes,yes_all
+Colorado,2012,Yes,yes_all
+Connecticut,1994,No,No
+Connecticut,1995,No,No
+Connecticut,1996,No,No
+Connecticut,1997,No,No
+Connecticut,1998,No,No
+Connecticut,1999,No,No
+Connecticut,2000,No,No
+Connecticut,2001,No,No
+Connecticut,2002,No,No
+Connecticut,2003,No,No
+Connecticut,2004,No,No
+Connecticut,2005,No,No
+Connecticut,2006,No,No
+Connecticut,2007,No,No
+Connecticut,2008,No,No
+Connecticut,2009,No,No
+Connecticut,2010,No,No
+Connecticut,2011,No,No
+Connecticut,2012,No,No
+Delaware,1994,No,No
+Delaware,1995,No,No
+Delaware,1996,No,No
+Delaware,1997,No,No
+Delaware,1998,No,No
+Delaware,1999,No,No
+Delaware,2000,No,No
+Delaware,2001,No,No
+Delaware,2002,No,No
+Delaware,2003,No,No
+Delaware,2004,No,No
+Delaware,2005,No,No
+Delaware,2006,No,No
+Delaware,2007,No,No
+Delaware,2008,No,No
+Delaware,2009,No,No
+Delaware,2010,No,No
+Delaware,2011,No,No
+Delaware,2012,No,No
+District of Columbia,1994,No,No
+District of Columbia,1995,No,No
+District of Columbia,1996,No,No
+District of Columbia,1997,No,No
+District of Columbia,1998,No,No
+District of Columbia,1999,No,No
+District of Columbia,2000,No,No
+District of Columbia,2001,No,No
+District of Columbia,2002,No,No
+District of Columbia,2003,No,No
+District of Columbia,2004,No,No
+District of Columbia,2005,No,No
+District of Columbia,2006,No,No
+District of Columbia,2007,No,No
+District of Columbia,2008,No,No
+District of Columbia,2009,No,No
+District of Columbia,2010,No,No
+District of Columbia,2011,No,No
+District of Columbia,2012,No,No
+Florida,1994,Yes,yes_all
+Florida,1995,Yes,yes_all
+Florida,1996,Yes,yes_all
+Florida,1997,Yes,yes_all
+Florida,1998,Yes,yes_all
+Florida,1999,Yes,yes_all
+Florida,2000,Yes,yes_all
+Florida,2001,Yes,yes_all
+Florida,2002,Yes,yes_all
+Florida,2003,Yes,yes_all
+Florida,2004,Yes,yes_all
+Florida,2005,Yes,yes_all
+Florida,2006,Yes,yes_all
+Florida,2007,Yes,yes_all
+Florida,2008,Yes,yes_all
+Florida,2009,Yes,yes_all
+Florida,2010,Yes,yes_all
+Florida,2011,Yes,yes_all
+Florida,2012,Yes,yes_all
+Georgia,1994,Yes,yes_all
+Georgia,1995,Yes,yes_all
+Georgia,1996,Yes,yes_all
+Georgia,1997,Yes,yes_all
+Georgia,1998,Yes,yes_all
+Georgia,1999,Yes,yes_all
+Georgia,2000,Yes,yes_all
+Georgia,2001,Yes,yes_all
+Georgia,2002,Yes,yes_all
+Georgia,2003,Yes,yes_all
+Georgia,2004,Yes,yes_all
+Georgia,2005,Yes,yes_all
+Georgia,2006,Yes,yes_all
+Georgia,2007,Yes,yes_all
+Georgia,2008,Yes,yes_all
+Georgia,2009,Yes,yes_all
+Georgia,2010,Yes,yes_all
+Georgia,2011,Yes,yes_all
+Georgia,2012,Yes,yes_all
+Hawaii,1994,No,No
+Hawaii,1995,No,No
+Hawaii,1996,No,No
+Hawaii,1997,No,No
+Hawaii,1998,No,No
+Hawaii,1999,No,No
+Hawaii,2000,No,No
+Hawaii,2001,No,No
+Hawaii,2002,No,No
+Hawaii,2003,No,No
+Hawaii,2004,No,No
+Hawaii,2005,No,No
+Hawaii,2006,No,No
+Hawaii,2007,No,No
+Hawaii,2008,No,No
+Hawaii,2009,No,No
+Hawaii,2010,No,No
+Hawaii,2011,No,No
+Hawaii,2012,No,No
+Idaho,1994,Yes,yes_all
+Idaho,1995,Yes,yes_all
+Idaho,1996,Yes,yes_all
+Idaho,1997,Yes,yes_all
+Idaho,1998,Yes,yes_all
+Idaho,1999,Yes,yes_all
+Idaho,2000,Yes,yes_all
+Idaho,2001,Yes,yes_all
+Idaho,2002,Yes,yes_all
+Idaho,2003,Yes,yes_all
+Idaho,2004,Yes,yes_all
+Idaho,2005,Yes,yes_all
+Idaho,2006,Yes,yes_all
+Idaho,2007,Yes,yes_all
+Idaho,2008,Yes,yes_all
+Idaho,2009,Yes,yes_all
+Idaho,2010,Yes,yes_all
+Idaho,2011,Yes,yes_all
+Idaho,2012,Yes,yes_all
+Illinois,1994,Yes,yes_all
+Illinois,1995,Yes,yes_all
+Illinois,1996,Yes,yes_all
+Illinois,1997,Yes,yes_all
+Illinois,1998,Yes,yes_all
+Illinois,1999,Yes,yes_all
+Illinois,2000,Yes,yes_all
+Illinois,2001,Yes,yes_all
+Illinois,2002,Yes,yes_all
+Illinois,2003,Yes,yes_all
+Illinois,2004,Yes,yes_all
+Illinois,2005,Yes,yes_all
+Illinois,2006,Yes,yes_all
+Illinois,2007,Yes,yes_all
+Illinois,2008,Yes,yes_all
+Illinois,2009,Yes,yes_all
+Illinois,2010,Yes,yes_all
+Illinois,2011,Yes,yes_all
+Illinois,2012,Yes,yes_all
+Indiana,1994,Yes,yes_all
+Indiana,1995,Yes,yes_all
+Indiana,1996,Yes,yes_all
+Indiana,1997,Yes,yes_all
+Indiana,1998,Yes,yes_all
+Indiana,1999,Yes,yes_all
+Indiana,2000,Yes,yes_all
+Indiana,2001,Yes,yes_all
+Indiana,2002,Yes,yes_all
+Indiana,2003,Yes,yes_all
+Indiana,2004,Yes,yes_all
+Indiana,2005,Yes,yes_all
+Indiana,2006,Yes,yes_all
+Indiana,2007,Yes,yes_all
+Indiana,2008,Yes,yes_all
+Indiana,2009,Yes,yes_all
+Indiana,2010,Yes,yes_all
+Indiana,2011,Yes,yes_all
+Indiana,2012,Yes,yes_all
+Iowa,1994,No,No
+Iowa,1995,No,No
+Iowa,1996,No,No
+Iowa,1997,No,No
+Iowa,1998,No,No
+Iowa,1999,Yes,yes_all
+Iowa,2000,Yes,yes_all
+Iowa,2001,Yes,yes_all
+Iowa,2002,Yes,yes_all
+Iowa,2003,Yes,yes_all
+Iowa,2004,Yes,yes_all
+Iowa,2005,Yes,yes_all
+Iowa,2006,Yes,yes_all
+Iowa,2007,Yes,yes_all
+Iowa,2008,Yes,yes_all
+Iowa,2009,Yes,yes_all
+Iowa,2010,Yes,yes_all
+Iowa,2011,Yes,yes_all
+Iowa,2012,Yes,yes_all
+Kansas,1994,Yes,yes_low_exempt
+Kansas,1995,Yes,yes_low_exempt
+Kansas,1996,Yes,yes_low_exempt
+Kansas,1997,Yes,yes_low_exempt
+Kansas,1998,Yes,yes_low_exempt
+Kansas,1999,Yes,yes_low_exempt
+Kansas,2000,Yes,yes_low_exempt
+Kansas,2001,Yes,yes_low_exempt
+Kansas,2002,Yes,yes_low_exempt
+Kansas,2003,Yes,yes_low_exempt
+Kansas,2004,Yes,yes_low_exempt
+Kansas,2005,Yes,yes_low_exempt
+Kansas,2006,Yes,yes_low_exempt
+Kansas,2007,Yes,yes_low_exempt
+Kansas,2008,Yes,yes_low_exempt
+Kansas,2009,Yes,yes_low_exempt
+Kansas,2010,Yes,yes_low_exempt
+Kansas,2011,Yes,yes_low_exempt
+Kansas,2012,Yes,yes_low_exempt
+Kentucky,1994,Yes,yes_low_exempt
+Kentucky,1995,Yes,yes_low_exempt
+Kentucky,1996,Yes,yes_low_exempt
+Kentucky,1997,Yes,yes_low_exempt
+Kentucky,1998,Yes,yes_low_exempt
+Kentucky,1999,Yes,yes_low_exempt
+Kentucky,2000,Yes,yes_low_exempt
+Kentucky,2001,Yes,yes_low_exempt
+Kentucky,2002,Yes,yes_low_exempt
+Kentucky,2003,Yes,yes_low_exempt
+Kentucky,2004,Yes,yes_low_exempt
+Kentucky,2005,Yes,yes_low_exempt
+Kentucky,2006,Yes,yes_low_exempt
+Kentucky,2007,Yes,yes_low_exempt
+Kentucky,2008,Yes,yes_low_exempt
+Kentucky,2009,Yes,yes_low_exempt
+Kentucky,2010,Yes,yes_low_exempt
+Kentucky,2011,Yes,yes_low_exempt
+Kentucky,2012,Yes,yes_low_exempt
+Louisiana,1994,Yes,yes_all
+Louisiana,1995,Yes,yes_all
+Louisiana,1996,Yes,yes_all
+Louisiana,1997,Yes,yes_all
+Louisiana,1998,Yes,yes_all
+Louisiana,1999,Yes,yes_all
+Louisiana,2000,Yes,yes_all
+Louisiana,2001,Yes,yes_all
+Louisiana,2002,Yes,yes_all
+Louisiana,2003,Yes,yes_all
+Louisiana,2004,Yes,yes_all
+Louisiana,2005,Yes,yes_all
+Louisiana,2006,Yes,yes_all
+Louisiana,2007,Yes,yes_all
+Louisiana,2008,Yes,yes_all
+Louisiana,2009,Yes,yes_all
+Louisiana,2010,Yes,yes_all
+Louisiana,2011,Yes,yes_all
+Louisiana,2012,Yes,yes_all
+Maine,1994,No,No
+Maine,1995,No,No
+Maine,1996,No,No
+Maine,1997,No,No
+Maine,1998,No,No
+Maine,1999,No,No
+Maine,2000,No,No
+Maine,2001,No,No
+Maine,2002,No,No
+Maine,2003,No,No
+Maine,2004,No,No
+Maine,2005,No,No
+Maine,2006,No,No
+Maine,2007,No,No
+Maine,2008,No,No
+Maine,2009,No,No
+Maine,2010,No,No
+Maine,2011,No,No
+Maine,2012,No,No
+Maryland,1994,Yes,yes_low_exempt
+Maryland,1995,Yes,yes_low_exempt
+Maryland,1996,Yes,yes_low_exempt
+Maryland,1997,Yes,yes_low_exempt
+Maryland,1998,Yes,yes_low_exempt
+Maryland,1999,Yes,yes_low_exempt
+Maryland,2000,Yes,yes_low_exempt
+Maryland,2001,Yes,yes_low_exempt
+Maryland,2002,Yes,yes_low_exempt
+Maryland,2003,Yes,yes_low_exempt
+Maryland,2004,Yes,yes_low_exempt
+Maryland,2005,Yes,yes_low_exempt
+Maryland,2006,Yes,yes_low_exempt
+Maryland,2007,Yes,yes_low_exempt
+Maryland,2008,Yes,yes_low_exempt
+Maryland,2009,Yes,yes_low_exempt
+Maryland,2010,Yes,yes_low_exempt
+Maryland,2011,Yes,yes_low_exempt
+Maryland,2012,Yes,yes_low_exempt
+Massachusetts,1994,No,No
+Massachusetts,1995,No,No
+Massachusetts,1996,No,No
+Massachusetts,1997,No,No
+Massachusetts,1998,No,No
+Massachusetts,1999,No,No
+Massachusetts,2000,No,No
+Massachusetts,2001,No,No
+Massachusetts,2002,No,No
+Massachusetts,2003,No,No
+Massachusetts,2004,No,No
+Massachusetts,2005,No,No
+Massachusetts,2006,No,No
+Massachusetts,2007,No,No
+Massachusetts,2008,No,No
+Massachusetts,2009,No,No
+Massachusetts,2010,No,No
+Massachusetts,2011,No,No
+Massachusetts,2012,No,No
+Michigan,1994,Yes,yes_all
+Michigan,1995,Yes,yes_all
+Michigan,1996,Yes,yes_all
+Michigan,1997,Yes,yes_all
+Michigan,1998,Yes,yes_all
+Michigan,1999,Yes,yes_all
+Michigan,2000,Yes,yes_all
+Michigan,2001,Yes,yes_all
+Michigan,2002,Yes,yes_all
+Michigan,2003,Yes,yes_all
+Michigan,2004,Yes,yes_all
+Michigan,2005,Yes,yes_all
+Michigan,2006,Yes,yes_all
+Michigan,2007,Yes,yes_all
+Michigan,2008,Yes,yes_all
+Michigan,2009,Yes,yes_all
+Michigan,2010,Yes,yes_all
+Michigan,2011,Yes,yes_all
+Michigan,2012,Yes,yes_all
+Minnesota,1994,No,No
+Minnesota,1995,No,No
+Minnesota,1996,Yes,yes_all
+Minnesota,1997,Yes,yes_all
+Minnesota,1998,Yes,yes_all
+Minnesota,1999,Yes,yes_all
+Minnesota,2000,Yes,yes_all
+Minnesota,2001,Yes,yes_all
+Minnesota,2002,Yes,yes_all
+Minnesota,2003,Yes,yes_all
+Minnesota,2004,Yes,yes_all
+Minnesota,2005,Yes,yes_all
+Minnesota,2006,Yes,yes_all
+Minnesota,2007,Yes,yes_all
+Minnesota,2008,Yes,yes_all
+Minnesota,2009,Yes,yes_all
+Minnesota,2010,Yes,yes_all
+Minnesota,2011,Yes,yes_all
+Minnesota,2012,Yes,yes_all
+Mississippi,1994,No,No
+Mississippi,1995,No,No
+Mississippi,1996,No,No
+Mississippi,1997,No,No
+Mississippi,1998,No,No
+Mississippi,1999,No,No
+Mississippi,2000,No,No
+Mississippi,2001,No,No
+Mississippi,2002,No,No
+Mississippi,2003,No,No
+Mississippi,2004,No,No
+Mississippi,2005,Yes,yes_all
+Mississippi,2006,Yes,yes_all
+Mississippi,2007,Yes,yes_all
+Mississippi,2008,Yes,yes_all
+Mississippi,2009,Yes,yes_all
+Mississippi,2010,Yes,yes_all
+Mississippi,2011,Yes,yes_all
+Mississippi,2012,Yes,yes_all
+Missouri,1994,Yes,yes_all
+Missouri,1995,Yes,yes_all
+Missouri,1996,Yes,yes_all
+Missouri,1997,Yes,yes_all
+Missouri,1998,Yes,yes_all
+Missouri,1999,Yes,yes_all
+Missouri,2000,Yes,yes_all
+Missouri,2001,Yes,yes_all
+Missouri,2002,Yes,yes_all
+Missouri,2003,Yes,yes_all
+Missouri,2004,Yes,yes_all
+Missouri,2005,Yes,yes_all
+Missouri,2006,Yes,yes_all
+Missouri,2007,Yes,yes_all
+Missouri,2008,Yes,yes_all
+Missouri,2009,Yes,yes_all
+Missouri,2010,Yes,yes_all
+Missouri,2011,Yes,yes_all
+Missouri,2012,Yes,yes_all
+Montana,1994,No,No
+Montana,1995,No,No
+Montana,1996,No,No
+Montana,1997,No,No
+Montana,1998,No,No
+Montana,1999,No,No
+Montana,2000,No,No
+Montana,2001,No,No
+Montana,2002,No,No
+Montana,2003,No,No
+Montana,2004,No,No
+Montana,2005,No,No
+Montana,2006,No,No
+Montana,2007,No,No
+Montana,2008,No,No
+Montana,2009,No,No
+Montana,2010,No,No
+Montana,2011,No,No
+Montana,2012,No,No
+Nebraska,1994,No,No
+Nebraska,1995,No,No
+Nebraska,1996,No,No
+Nebraska,1997,No,No
+Nebraska,1998,No,No
+Nebraska,1999,No,No
+Nebraska,2000,No,No
+Nebraska,2001,No,No
+Nebraska,2002,No,No
+Nebraska,2003,No,No
+Nebraska,2004,No,No
+Nebraska,2005,No,No
+Nebraska,2006,No,No
+Nebraska,2007,No,No
+Nebraska,2008,No,No
+Nebraska,2009,No,No
+Nebraska,2010,No,No
+Nebraska,2011,No,No
+Nebraska,2012,Yes,yes_all
+Nevada,1994,Yes,yes_low_exempt
+Nevada,1995,Yes,yes_low_exempt
+Nevada,1996,Yes,yes_low_exempt
+Nevada,1997,Yes,yes_low_exempt
+Nevada,1998,Yes,yes_low_exempt
+Nevada,1999,Yes,yes_low_exempt
+Nevada,2000,Yes,yes_low_exempt
+Nevada,2001,Yes,yes_low_exempt
+Nevada,2002,Yes,yes_low_exempt
+Nevada,2003,Yes,yes_low_exempt
+Nevada,2004,Yes,yes_low_exempt
+Nevada,2005,Yes,yes_low_exempt
+Nevada,2006,Yes,yes_low_exempt
+Nevada,2007,Yes,yes_low_exempt
+Nevada,2008,Yes,yes_low_exempt
+Nevada,2009,Yes,yes_low_exempt
+Nevada,2010,Yes,yes_low_exempt
+Nevada,2011,Yes,yes_low_exempt
+Nevada,2012,Yes,yes_low_exempt
+New Hampshire,1994,No,No
+New Hampshire,1995,No,No
+New Hampshire,1996,No,No
+New Hampshire,1997,No,No
+New Hampshire,1998,No,No
+New Hampshire,1999,No,No
+New Hampshire,2000,No,No
+New Hampshire,2001,No,No
+New Hampshire,2002,No,No
+New Hampshire,2003,No,No
+New Hampshire,2004,No,No
+New Hampshire,2005,No,No
+New Hampshire,2006,No,No
+New Hampshire,2007,No,No
+New Hampshire,2008,No,No
+New Hampshire,2009,No,No
+New Hampshire,2010,No,No
+New Hampshire,2011,No,No
+New Hampshire,2012,No,No
+New Jersey,1994,No,No
+New Jersey,1995,No,No
+New Jersey,1996,No,No
+New Jersey,1997,No,No
+New Jersey,1998,Yes,yes_all
+New Jersey,1999,Yes,yes_all
+New Jersey,2000,Yes,yes_all
+New Jersey,2001,Yes,yes_all
+New Jersey,2002,Yes,yes_all
+New Jersey,2003,Yes,yes_all
+New Jersey,2004,Yes,yes_all
+New Jersey,2005,Yes,yes_all
+New Jersey,2006,Yes,yes_all
+New Jersey,2007,Yes,yes_all
+New Jersey,2008,Yes,yes_all
+New Jersey,2009,Yes,yes_all
+New Jersey,2010,Yes,yes_all
+New Jersey,2011,Yes,yes_all
+New Jersey,2012,Yes,yes_all
+New Mexico,1994,No,No
+New Mexico,1995,No,No
+New Mexico,1996,No,No
+New Mexico,1997,No,No
+New Mexico,1998,No,No
+New Mexico,1999,No,No
+New Mexico,2000,No,No
+New Mexico,2001,No,No
+New Mexico,2002,No,No
+New Mexico,2003,No,No
+New Mexico,2004,No,No
+New Mexico,2005,No,No
+New Mexico,2006,No,No
+New Mexico,2007,No,No
+New Mexico,2008,No,No
+New Mexico,2009,No,No
+New Mexico,2010,No,No
+New Mexico,2011,No,No
+New Mexico,2012,No,No
+New York,1994,No,No
+New York,1995,No,No
+New York,1996,No,No
+New York,1997,No,No
+New York,1998,No,No
+New York,1999,No,No
+New York,2000,No,No
+New York,2001,No,No
+New York,2002,No,No
+New York,2003,No,No
+New York,2004,No,No
+New York,2005,No,No
+New York,2006,No,No
+New York,2007,No,No
+New York,2008,No,No
+New York,2009,No,No
+New York,2010,No,No
+New York,2011,No,No
+New York,2012,No,No
+North Carolina,1994,Yes,yes_all
+North Carolina,1995,Yes,yes_all
+North Carolina,1996,Yes,yes_all
+North Carolina,1997,Yes,yes_all
+North Carolina,1998,Yes,yes_all
+North Carolina,1999,Yes,yes_all
+North Carolina,2000,Yes,yes_all
+North Carolina,2001,Yes,yes_all
+North Carolina,2002,Yes,yes_all
+North Carolina,2003,Yes,yes_all
+North Carolina,2004,Yes,yes_all
+North Carolina,2005,Yes,yes_all
+North Carolina,2006,Yes,yes_all
+North Carolina,2007,Yes,yes_all
+North Carolina,2008,Yes,yes_all
+North Carolina,2009,Yes,yes_all
+North Carolina,2010,Yes,yes_all
+North Carolina,2011,Yes,yes_all
+North Carolina,2012,Yes,yes_all
+North Dakota,1994,Yes,yes_all
+North Dakota,1995,Yes,yes_all
+North Dakota,1996,Yes,yes_all
+North Dakota,1997,Yes,yes_all
+North Dakota,1998,Yes,yes_all
+North Dakota,1999,Yes,yes_all
+North Dakota,2000,Yes,yes_all
+North Dakota,2001,Yes,yes_all
+North Dakota,2002,Yes,yes_all
+North Dakota,2003,Yes,yes_all
+North Dakota,2004,Yes,yes_all
+North Dakota,2005,Yes,yes_all
+North Dakota,2006,Yes,yes_all
+North Dakota,2007,Yes,yes_all
+North Dakota,2008,Yes,yes_all
+North Dakota,2009,Yes,yes_all
+North Dakota,2010,Yes,yes_all
+North Dakota,2011,Yes,yes_all
+North Dakota,2012,Yes,yes_all
+Ohio,1994,Yes,yes_all
+Ohio,1995,Yes,yes_all
+Ohio,1996,Yes,yes_all
+Ohio,1997,Yes,yes_all
+Ohio,1998,Yes,yes_all
+Ohio,1999,Yes,yes_all
+Ohio,2000,Yes,yes_all
+Ohio,2001,Yes,yes_all
+Ohio,2002,Yes,yes_all
+Ohio,2003,Yes,yes_all
+Ohio,2004,Yes,yes_all
+Ohio,2005,Yes,yes_all
+Ohio,2006,Yes,yes_all
+Ohio,2007,Yes,yes_all
+Ohio,2008,Yes,yes_all
+Ohio,2009,Yes,yes_all
+Ohio,2010,Yes,yes_all
+Ohio,2011,Yes,yes_all
+Ohio,2012,Yes,yes_all
+Oklahoma,1994,Yes,yes_all
+Oklahoma,1995,Yes,yes_all
+Oklahoma,1996,Yes,yes_all
+Oklahoma,1997,Yes,yes_all
+Oklahoma,1998,Yes,yes_all
+Oklahoma,1999,Yes,yes_all
+Oklahoma,2000,Yes,yes_all
+Oklahoma,2001,Yes,yes_all
+Oklahoma,2002,Yes,yes_all
+Oklahoma,2003,Yes,yes_all
+Oklahoma,2004,Yes,yes_all
+Oklahoma,2005,Yes,yes_all
+Oklahoma,2006,Yes,yes_all
+Oklahoma,2007,Yes,yes_all
+Oklahoma,2008,Yes,yes_all
+Oklahoma,2009,Yes,yes_all
+Oklahoma,2010,Yes,yes_all
+Oklahoma,2011,Yes,yes_all
+Oklahoma,2012,Yes,yes_all
+Oregon,1994,No,No
+Oregon,1995,No,No
+Oregon,1996,No,No
+Oregon,1997,No,No
+Oregon,1998,No,No
+Oregon,1999,No,No
+Oregon,2000,No,No
+Oregon,2001,No,No
+Oregon,2002,No,No
+Oregon,2003,No,No
+Oregon,2004,No,No
+Oregon,2005,No,No
+Oregon,2006,No,No
+Oregon,2007,No,No
+Oregon,2008,No,No
+Oregon,2009,No,No
+Oregon,2010,No,No
+Oregon,2011,No,No
+Oregon,2012,No,No
+Pennsylvania,1994,No,No
+Pennsylvania,1995,No,No
+Pennsylvania,1996,Yes,yes_all
+Pennsylvania,1997,Yes,yes_all
+Pennsylvania,1998,Yes,yes_all
+Pennsylvania,1999,Yes,yes_all
+Pennsylvania,2000,Yes,yes_all
+Pennsylvania,2001,Yes,yes_all
+Pennsylvania,2002,Yes,yes_all
+Pennsylvania,2003,Yes,yes_all
+Pennsylvania,2004,Yes,yes_all
+Pennsylvania,2005,Yes,yes_all
+Pennsylvania,2006,Yes,yes_all
+Pennsylvania,2007,Yes,yes_all
+Pennsylvania,2008,Yes,yes_all
+Pennsylvania,2009,Yes,yes_all
+Pennsylvania,2010,Yes,yes_all
+Pennsylvania,2011,Yes,yes_all
+Pennsylvania,2012,Yes,yes_all
+Rhode Island,1994,No,No
+Rhode Island,1995,No,No
+Rhode Island,1996,No,No
+Rhode Island,1997,No,No
+Rhode Island,1998,No,No
+Rhode Island,1999,No,No
+Rhode Island,2000,No,No
+Rhode Island,2001,No,No
+Rhode Island,2002,No,No
+Rhode Island,2003,No,No
+Rhode Island,2004,No,No
+Rhode Island,2005,No,No
+Rhode Island,2006,No,No
+Rhode Island,2007,No,No
+Rhode Island,2008,No,No
+Rhode Island,2009,No,No
+Rhode Island,2010,No,No
+Rhode Island,2011,No,No
+Rhode Island,2012,No,No
+South Carolina,1994,Yes,yes_all
+South Carolina,1995,Yes,yes_all
+South Carolina,1996,Yes,yes_all
+South Carolina,1997,Yes,yes_all
+South Carolina,1998,Yes,yes_all
+South Carolina,1999,Yes,yes_all
+South Carolina,2000,Yes,yes_all
+South Carolina,2001,Yes,yes_all
+South Carolina,2002,Yes,yes_all
+South Carolina,2003,Yes,yes_all
+South Carolina,2004,Yes,yes_all
+South Carolina,2005,Yes,yes_all
+South Carolina,2006,Yes,yes_all
+South Carolina,2007,Yes,yes_all
+South Carolina,2008,Yes,yes_all
+South Carolina,2009,Yes,yes_all
+South Carolina,2010,Yes,yes_all
+South Carolina,2011,Yes,yes_all
+South Carolina,2012,Yes,yes_all
+South Dakota,1994,No,No
+South Dakota,1995,No,No
+South Dakota,1996,No,No
+South Dakota,1997,No,No
+South Dakota,1998,No,No
+South Dakota,1999,No,No
+South Dakota,2000,No,No
+South Dakota,2001,Yes,yes_all
+South Dakota,2002,Yes,yes_all
+South Dakota,2003,Yes,yes_all
+South Dakota,2004,Yes,yes_all
+South Dakota,2005,Yes,yes_all
+South Dakota,2006,Yes,yes_all
+South Dakota,2007,Yes,yes_all
+South Dakota,2008,Yes,yes_all
+South Dakota,2009,Yes,yes_all
+South Dakota,2010,Yes,yes_all
+South Dakota,2011,Yes,yes_all
+South Dakota,2012,Yes,yes_all
+Tennessee,1994,Yes,yes_all
+Tennessee,1995,Yes,yes_all
+Tennessee,1996,Yes,yes_all
+Tennessee,1997,Yes,yes_all
+Tennessee,1998,Yes,yes_all
+Tennessee,1999,Yes,yes_all
+Tennessee,2000,Yes,yes_all
+Tennessee,2001,Yes,yes_all
+Tennessee,2002,Yes,yes_all
+Tennessee,2003,Yes,yes_all
+Tennessee,2004,Yes,yes_all
+Tennessee,2005,Yes,yes_all
+Tennessee,2006,Yes,yes_all
+Tennessee,2007,Yes,yes_all
+Tennessee,2008,Yes,yes_all
+Tennessee,2009,Yes,yes_all
+Tennessee,2010,Yes,yes_all
+Tennessee,2011,Yes,yes_all
+Tennessee,2012,Yes,yes_all
+Texas,1994,No,No
+Texas,1995,No,No
+Texas,1996,No,No
+Texas,1997,No,No
+Texas,1998,No,No
+Texas,1999,No,No
+Texas,2000,No,No
+Texas,2001,No,No
+Texas,2002,No,No
+Texas,2003,No,No
+Texas,2004,No,No
+Texas,2005,No,No
+Texas,2006,No,No
+Texas,2007,No,No
+Texas,2008,No,No
+Texas,2009,No,No
+Texas,2010,No,No
+Texas,2011,No,No
+Texas,2012,No,No
+Utah,1994,Yes,yes_all
+Utah,1995,Yes,yes_all
+Utah,1996,Yes,yes_all
+Utah,1997,Yes,yes_all
+Utah,1998,Yes,yes_all
+Utah,1999,Yes,yes_all
+Utah,2000,Yes,yes_all
+Utah,2001,Yes,yes_all
+Utah,2002,Yes,yes_all
+Utah,2003,Yes,yes_all
+Utah,2004,Yes,yes_all
+Utah,2005,Yes,yes_all
+Utah,2006,Yes,yes_all
+Utah,2007,Yes,yes_all
+Utah,2008,Yes,yes_all
+Utah,2009,Yes,yes_all
+Utah,2010,Yes,yes_all
+Utah,2011,Yes,yes_all
+Utah,2012,Yes,yes_all
+Vermont,1994,No,No
+Vermont,1995,No,No
+Vermont,1996,No,No
+Vermont,1997,No,No
+Vermont,1998,No,No
+Vermont,1999,No,No
+Vermont,2000,No,No
+Vermont,2001,No,No
+Vermont,2002,No,No
+Vermont,2003,No,No
+Vermont,2004,No,No
+Vermont,2005,No,No
+Vermont,2006,No,No
+Vermont,2007,No,No
+Vermont,2008,No,No
+Vermont,2009,No,No
+Vermont,2010,No,No
+Vermont,2011,No,No
+Vermont,2012,No,No
+Virginia,1994,Yes,yes_all
+Virginia,1995,Yes,yes_all
+Virginia,1996,Yes,yes_all
+Virginia,1997,Yes,yes_all
+Virginia,1998,Yes,yes_all
+Virginia,1999,Yes,yes_all
+Virginia,2000,Yes,yes_all
+Virginia,2001,Yes,yes_all
+Virginia,2002,Yes,yes_all
+Virginia,2003,Yes,yes_all
+Virginia,2004,Yes,yes_all
+Virginia,2005,Yes,yes_all
+Virginia,2006,Yes,yes_all
+Virginia,2007,Yes,yes_all
+Virginia,2008,Yes,yes_all
+Virginia,2009,Yes,yes_all
+Virginia,2010,Yes,yes_all
+Virginia,2011,Yes,yes_all
+Virginia,2012,Yes,yes_all
+Washington,1994,Yes,yes_low_exempt
+Washington,1995,Yes,yes_low_exempt
+Washington,1996,Yes,yes_low_exempt
+Washington,1997,Yes,yes_low_exempt
+Washington,1998,Yes,yes_low_exempt
+Washington,1999,Yes,yes_low_exempt
+Washington,2000,Yes,yes_low_exempt
+Washington,2001,Yes,yes_low_exempt
+Washington,2002,Yes,yes_low_exempt
+Washington,2003,Yes,yes_low_exempt
+Washington,2004,Yes,yes_low_exempt
+Washington,2005,Yes,yes_low_exempt
+Washington,2006,Yes,yes_low_exempt
+Washington,2007,Yes,yes_low_exempt
+Washington,2008,Yes,yes_low_exempt
+Washington,2009,Yes,yes_low_exempt
+Washington,2010,Yes,yes_low_exempt
+Washington,2011,Yes,yes_low_exempt
+Washington,2012,Yes,yes_low_exempt
+West Virginia,1994,No,No
+West Virginia,1995,No,No
+West Virginia,1996,No,No
+West Virginia,1997,No,No
+West Virginia,1998,No,No
+West Virginia,1999,No,No
+West Virginia,2000,No,No
+West Virginia,2001,No,No
+West Virginia,2002,No,No
+West Virginia,2003,No,No
+West Virginia,2004,No,No
+West Virginia,2005,No,No
+West Virginia,2006,No,No
+West Virginia,2007,No,No
+West Virginia,2008,No,No
+West Virginia,2009,No,No
+West Virginia,2010,No,No
+West Virginia,2011,No,No
+West Virginia,2012,No,No
+Wisconsin,1994,No,No
+Wisconsin,1995,No,No
+Wisconsin,1996,No,No
+Wisconsin,1997,No,No
+Wisconsin,1998,No,No
+Wisconsin,1999,No,No
+Wisconsin,2000,No,No
+Wisconsin,2001,No,No
+Wisconsin,2002,No,No
+Wisconsin,2003,Yes,yes_low_exempt
+Wisconsin,2004,Yes,yes_low_exempt
+Wisconsin,2005,Yes,yes_low_exempt
+Wisconsin,2006,Yes,yes_low_exempt
+Wisconsin,2007,Yes,yes_low_exempt
+Wisconsin,2008,Yes,yes_low_exempt
+Wisconsin,2009,Yes,yes_low_exempt
+Wisconsin,2010,Yes,yes_low_exempt
+Wisconsin,2011,Yes,yes_low_exempt
+Wisconsin,2012,Yes,yes_low_exempt
+Wyoming,1994,No,No
+Wyoming,1995,No,No
+Wyoming,1996,No,No
+Wyoming,1997,No,No
+Wyoming,1998,No,No
+Wyoming,1999,No,No
+Wyoming,2000,No,No
+Wyoming,2001,No,No
+Wyoming,2002,No,No
+Wyoming,2003,No,No
+Wyoming,2004,No,No
+Wyoming,2005,No,No
+Wyoming,2006,No,No
+Wyoming,2007,No,No
+Wyoming,2008,No,No
+Wyoming,2009,No,No
+Wyoming,2010,No,No
+Wyoming,2011,No,No
+Wyoming,2012,No,No
